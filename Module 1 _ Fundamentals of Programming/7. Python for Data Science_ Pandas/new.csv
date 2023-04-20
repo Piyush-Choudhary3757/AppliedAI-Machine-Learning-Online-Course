@@ -1,0 +1,13 @@
+day,city,temperature,windspeed,event
+2017-01-01,new york,32.0,6.0,Rain
+2017-01-02,new york,36.0,7.0,Sunny
+2017-01-03,new york,28.0,12.0,Snow
+2017-01-04,new york,33.0,7.0,Sunny
+2017-01-01,mumbai,90.0,5.0,Sunny
+2017-01-02,mumbai,85.0,12.0,Fog
+2017-01-03,mumbai,87.0,15.0,Fog
+2017-01-04,mumbai,92.0,5.0,Rain
+2017-01-01,paris,45.0,20.0,Sunny
+2017-01-02,paris,50.0,13.0,Cloudy
+2017-01-03,paris,54.0,8.0,Cloudy
+2017-01-04,paris,42.0,10.0,Cloudy
