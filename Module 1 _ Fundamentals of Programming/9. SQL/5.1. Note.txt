@@ -1,0 +1,16 @@
+Refer:https://dev.mysql.com/downloads/windows/installer/8.0.html 
+https://drive.google.com/open?id=1rrqZz-ddvYGvbXoP-SH767pgY06B7YHk
+
+
+
+if you are having any problems with the above metioned procedure pleasefollow the below procedure 
+
+Note: before you install XAMPP make sure you don't have any previously installed SQL versions installed in your system
+
+1. please download the XAMPP
+
+https://drive.google.com/file/d/1c_6C2Z26yKN1AhwArcGgLcZg_M81yAxF/view?usp=sharing
+
+2. please check the installation videos
+
+https://drive.google.com/file/d/1UH5tEiJoptGb8vGna7DiqyIV4ltpHGM9/view?usp=sharing

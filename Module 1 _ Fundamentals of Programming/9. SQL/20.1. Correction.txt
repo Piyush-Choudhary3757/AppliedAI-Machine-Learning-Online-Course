@@ -1,0 +1,2 @@
+Correction: We need to use escape character in nested query code. 
+Last part of the code should be : name = ‘Schindler’s List’
