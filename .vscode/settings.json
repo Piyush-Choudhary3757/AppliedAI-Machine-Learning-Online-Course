@@ -2,5 +2,20 @@
     "better-comments.highlightPlainText": true,
     "cSpell.words": [
         "DIVIDEBYZERO"
-    ]
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "username": "root",
+            "name": "Local instance MySQL80",
+            "database": "imdb"
+        }
+    ],
+    "python.analysis.typeCheckingMode": "basic"
 }
