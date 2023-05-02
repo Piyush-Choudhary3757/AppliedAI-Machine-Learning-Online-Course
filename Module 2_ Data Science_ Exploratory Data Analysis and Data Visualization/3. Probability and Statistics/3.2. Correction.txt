@@ -1,0 +1,5 @@
+Correction: From 12:48 onwards, it was mentioned that PDF at x as the probability at x, P(x). which is not correct 
+"The PDF at a given point gives the probability density and not the probability at that point itself"
+
+At 12:47 in the video, P(X = x) which was described as the probability of a student height being 'x' is calculated using the formula of the PDF of Normal distribution. 
+The PDF at a given point gives the probability density and not the probability at that point itself, isn't it? That is why for a continuous distribution, probability is calculated for a range and not a single discrete value and the probability that X takes a single discrete value is 0.

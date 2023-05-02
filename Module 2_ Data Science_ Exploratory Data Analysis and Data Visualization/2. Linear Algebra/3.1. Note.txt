@@ -1,0 +1,3 @@
+If we take both as row vectors , so a.b => a.b_T , 
+By default, we assume all vectors to be column vectors unless otherwise stated to avoid confusion. 
+So, a.b =a_T*b = b_T*a

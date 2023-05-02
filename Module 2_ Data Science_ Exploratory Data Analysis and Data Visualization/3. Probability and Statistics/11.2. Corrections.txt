@@ -1,0 +1,3 @@
+Correction 1: The inequation from 14:10 minutes onwards should have  >= and NOT > between LHS and RHS.
+
+Correction 2: we typically write a normal distribution like X~N(mu, sigma^2)  where sigma^2 is variance but it is a typo in the videos, its mentioned that X~N(mu, sigma).

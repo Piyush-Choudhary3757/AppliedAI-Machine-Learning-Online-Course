@@ -1,0 +1,3 @@
+Note/Correction: Box-cox transform is not guaranteed to work on all Pareto or power-law distributed data. 
+
+It works only on some of them and we need to perform the box-cox transform and observe the QQ-plot to be certain of it working well on our data.
