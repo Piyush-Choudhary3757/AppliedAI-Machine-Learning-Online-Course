@@ -1,0 +1,3 @@
+Correction: when are doing X, y separation, the output value has also become part of the X, which is wrong. 
+
+please correct it when you are playing with the notebook.
